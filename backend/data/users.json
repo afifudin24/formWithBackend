@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Afif W",
+    "email": "afifrider507@gmail.com",
+    "password": "$2a$08$yGK7xnjPo..TsXnud00WwuA0U1J0iMOljoWmd9wVun5LwHVPcgD.2",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "AW",
+    "email": "aw@gmail.com",
+    "password": "$2a$08$yGK7xnjPo..TsXnud00WwuA0U1J0iMOljoWmd9wVun5LwHVPcgD.2",
+    "role": "user"
+  },
+  {
+    "id": 453,
+    "name": "Afif Udin",
+    "email": "kocakbanget@gmail.com",
+    "password": "$2a$08$8.dqi4d7DQ/BxLWaduaGOeNLoGB0Jf6E94AVuGe8qXL/YBlRCMClS",
+    "role": "user"
+  }
+]
